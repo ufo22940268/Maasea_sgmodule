@@ -23,5 +23,5 @@ http:
 
 script-providers:
   YouTubequguanggao:
-    url: https://raw.githubusercontent.com/lvjiong/Maasea_sgmodule/master/Script/Youtube/dist/youtube.response.preview.js
+    url: https://raw.githubusercontent.com/ufo22940268/Maasea_sgmodule/f8c7a12da8fcde625f5e9331b0c93c4688bbbaae/Script/Youtube/dist/youtube.response.preview.js
     interval: 86400
